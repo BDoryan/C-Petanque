@@ -33,8 +33,8 @@ Il est important de noter qu'il existe de nombreuses applications disponibles su
 
 Lorsqu'on observe la concurrence, la première chose qui saute aux yeux, c'est que sur le plan visuel, elles semblent dépassées. Aujourd'hui, nous avons la capacité de créer des applications à la fois esthétiquement attrayantes et encore plus intuitives que ce qu'elles sont actuellement.
 
-<img width="300" height="200" src="https://www.comite-gers-petanque-jp.fr/images/comite/ressources/gc1.PNG">
-<img width="300" height="200" src="https://media.toucharger.com/download/315x188/sport/e13ab71b-visual-petanque.jpg">
+<img width="300" src="https://www.comite-gers-petanque-jp.fr/images/comite/ressources/gc1.PNG">
+<img width="300" src="https://media.toucharger.com/download/315x188/sport/e13ab71b-visual-petanque.jpg">
 <br>
 
 Certaines de ces applications existantes sont peut-être très abouties, mais je suis convaincu que nous pouvons aller encore plus loin.

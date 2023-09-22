@@ -19,11 +19,13 @@ L'application est accessible sur les plateformes les plus couramment utilisées,
 
 Nous nous efforçons de la rendre disponible sur un large éventail de dispositifs afin qu'elle puisse être utilisée par le plus grand nombre de personnes possible.
 
-<img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/768px-Icon-Mac.svg.png" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" width="50"/>
-<img style="padding-left: 5px; border-radius: 18px;" src="https://styles.redditmedia.com/t5_5nujb/styles/communityIcon_jzcz4agt54ib1.jpg" width="50"/>
+<div style="display: flex";>
+    <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/768px-Icon-Mac.svg.png" width="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" width="50"/>
+    <img style="padding-left: 5px; border-radius: 18px;" src="https://styles.redditmedia.com/t5_5nujb/styles/communityIcon_jzcz4agt54ib1.jpg" width="50"/>
+</div>
 
 ## En quoi cette application se distingue-t-elle des autres ?
 

@@ -36,7 +36,6 @@ Lorsqu'on observe la concurrence, la première chose qui saute aux yeux, c'est q
 <img width="300" height="200" src="https://www.comite-gers-petanque-jp.fr/images/comite/ressources/gc1.PNG">
 <img width="300" height="200" src="https://media.toucharger.com/download/315x188/sport/e13ab71b-visual-petanque.jpg">
 <br>
-<br>
 
 Certaines de ces applications existantes sont peut-être très abouties, mais je suis convaincu que nous pouvons aller encore plus loin.
 
